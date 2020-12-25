@@ -1,5 +1,6 @@
 # hello-world
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-Rebulding example from Git 
+var txt = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+var sln = txt.length;
 hate interface
 
